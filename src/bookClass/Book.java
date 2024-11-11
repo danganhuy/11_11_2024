@@ -1,4 +1,4 @@
-package miniTest;
+package bookClass;
 
 public class Book {
     private int id;

@@ -1,6 +1,6 @@
-import miniTest.*;
+import bookClass.*;
 
-public class miniTest {
+public class main {
     public static void main(String[] args) {
         Book[] books = new Book[6];
 
